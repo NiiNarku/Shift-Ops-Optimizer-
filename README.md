@@ -9,3 +9,6 @@ This project tackles that problem analytically. Using production data across shi
 - Identify root causes of downtime and resource underutilisation
 - Optimise workforce and machine allocation to reduce shift-level inefficiencies
 - Provide shift managers with clear, data-driven scheduling recommendations
+
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d9de895d-04ec-4514-91bc-cfb215d1127b" />
